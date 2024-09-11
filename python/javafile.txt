@@ -1,0 +1,5 @@
+Bubble Sort/0.1321/3.6675/110.2521
+Merge Sort/0.0567/0.5665/0.8339
+Insertion Sort/0.0073/0.0272/0.5996
+Shell Sort/0.0537/0.1681/1.589
+Selection Sort/0.1667/2.5876/9.8426
